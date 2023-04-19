@@ -1,0 +1,19 @@
+
+.bg-red{
+  padding: 50px;
+  background-position: center;
+}
+.bn{
+  background-color: #DEBACE;
+}
+.bo{
+  background-color: #D3756B;
+}
+.bb{
+  background-color: #D3756B;
+  border-radius: 10%;
+  box-shadow: 10px 10px 8px #4F4557;
+}
+.beq{
+  background-color: #DC3535;
+}
